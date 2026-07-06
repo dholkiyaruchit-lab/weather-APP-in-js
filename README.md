@@ -22,28 +22,43 @@ A simple Weather Application built using HTML, CSS, and JavaScript (Fetch API + 
 
 
 🛠️ Technologies Used
+
 HTML5
+
 CSS3
+
 JavaScript (ES6)
+
 Fetch API
+
 Async / Await
+
 OpenWeatherMap API
 
 
 📂 Project Structure
 Weather-Api/
+
 │── index.html
+
 │── style.css
+
 │── script.js
+
 └── README.md
+
 
 Displays:
 
 🌡 Temperature
 💦 Humidity
+
 🌬 Wind Speed
+
 ☁ Weather Status
+
 🔗 API Used
+
 
 OpenWeatherMap API
 
