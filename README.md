@@ -5,13 +5,21 @@ A simple Weather Application built using HTML, CSS, and JavaScript (Fetch API + 
 🚀 Features
 
 🌍 Search weather by city name
+
 🌡️ Current Temperature
+
 💦 Humidity
+
 🌬️ Wind Speed
+
 ☁️ Weather Condition
+
 ❌ Invalid city error handling
+
 📱 Responsive UI
+
 ⚡ Uses Fetch API with Async/Await
+
 
 🛠️ Technologies Used
 HTML5
